@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:tools="http://schemas.android.com/tools"
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mi_menu_francisco_app="http://schemas.android.com/apk/res-auto"
+    tools:context="mx.edu.utng.franciscojs.TemarioActivity">
+
+    <item
+        android:title="Temario"
+        android:id="@+id/itm_mod_temario"
+        android:orderInCategory="100"
+        mi_menu_francisco_app:showAsAction="never"></item>
+    </menu>
